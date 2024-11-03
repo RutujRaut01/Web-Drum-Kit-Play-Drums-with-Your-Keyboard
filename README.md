@@ -1,2 +1,1 @@
-# Webpage-to-Drum-Play-Using-Keyboard
-In this mini website I have used my knowledge of eventListeners in javascript to create a webpage in which when you pless certain key among a,s,d,f,j,k,l  instrument with certain sound is played.
+Unleash your inner drummer with this interactive webpage! 🥁 Press the on-screen drum buttons or use your keyboard to play realistic drum sounds. Each key triggers a unique beat and gives visual feedback with a quick animation for a dynamic experience. Built with HTML, CSS, and JavaScript. Perfect for anyone looking to add a beat to their day! 🎸
