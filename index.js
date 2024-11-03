@@ -1,14 +1,3 @@
-// alert("Hello JS is working")
-
-// function handleClick()
-// {
-//     alert("I got clicked");
-// }
-
-// document.querySelector(".drum").addEventListener("click",function()
-// {
-//     alert("I got clicked");
-// });
 
 var numOfButtons = document.querySelectorAll(".drum").length;
 
@@ -16,10 +5,6 @@ for(var i=0; i<numOfButtons; i++)
 {
     document.querySelectorAll(".drum")[i].addEventListener("click",function()
 {
-    // var audio = new Audio('./sounds/tom-1.mp3');
-    // audio.play();
-    // this.classList.add("whity");
-
     var selectedChar = this.innerHTML;
     player(selectedChar);
     buttonAnimation(selectedChar);
